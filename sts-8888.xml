@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="." name="github" review="https://github.com/ekko3add7"/>
   <default remote="origin" revision="master" sync-j="4"/>
 
-  <project name="openwrt" revision="master" path="."/>
+  <project name="openwrt.git" revision="master" path="."/>
 
 </manifest>
