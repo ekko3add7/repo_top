@@ -4,6 +4,7 @@
     <remote name="origin" fetch="https://github.com/ekko3add7" review="https://github.com/ekko3add7" />
     <default remote="origin" revision="master" />
 
-    <project name="openwrt.git" revision="openwrt-22.03" path="." />
+    <project name="openwrt.git" revision="openwrt-22.03" path="." />    
+    <project name="app-hellowrold.git" revision="master" path="." />
 
 </manifest>
