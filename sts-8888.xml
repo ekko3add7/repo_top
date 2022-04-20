@@ -1,0 +1,3 @@
+<manifest>
+	<remote  name="origin" fetch="https://github.com/ekko3add7/openwrt.git"/>
+</manifest>
