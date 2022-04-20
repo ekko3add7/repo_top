@@ -1,3 +1,7 @@
 <manifest>
-	<remote  name="origin" fetch="https://github.com/ekko3add7/openwrt.git"/>
+  <remote fetch="." name="github" review="https://github.com/ekko3add7"/>
+  <default remote="origin" revision="master" sync-j="4"/>
+
+  <project name="openwrt" revision="master" path="."/>
+
 </manifest>
