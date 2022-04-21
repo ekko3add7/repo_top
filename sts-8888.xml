@@ -5,6 +5,6 @@
     <default remote="origin" revision="master" />
 
     <project name="openwrt.git" revision="openwrt-22.03" path="." />    
-    <project name="app-hellowrold.git" revision="master" path="." />
+    <project name="app-hellowrold.git" revision="master" path="applications/hellowrold" />
 
 </manifest>
